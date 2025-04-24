@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Amor Ai"
 description              : &description "personal description"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Amor Ai"
   pronouns         : "she/they"  
-  bio              : # "Bio"
+  bio              : # Bio
   location         : "Santa Clara, CA"
   employer         : "Stanford University"
   uri              : # URL
-  email            : "amorai1357@gmail.com" 
+  email            : "amorai@stanford.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : _amorai
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -76,7 +76,7 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -201,14 +201,14 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:name
+  resources:
+    output: false
+    permalink: /resources/:name
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: false
@@ -288,14 +288,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji

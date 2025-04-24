@@ -1,23 +1,21 @@
 # main links links
 main:
 
-  - title: "Research" # Originally Portfolio
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
 
-# - title: "Publications"
-#  url: /publications/
+  - title: "About"
+    url: /aboutme/
 
-  - title: "Sports" # Originally Talks
-    url: /sports/    
+
+#  - title: "Resources"
+#     url: /resources/
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-  - title: "CV"
-    url: /files/CV.pdf
 
-  - title: "Archive"
-    url: /archive/
-    
-  - title: "About"
-    url: /pages/aboutme.md
+#  - title: "Archive"
+#    url: /archive/
+
+#  - title: "CV"
+#    url: /files/CV.pdf
