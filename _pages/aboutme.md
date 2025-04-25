@@ -4,7 +4,6 @@ title: ""
 permalink: /aboutme/
 author_profile: true
 ---
-
 ## A little bit about me
 I graduated from Carnegie Mellon University with degrees in Statistics and Psychology, with an additional major in Decision Science. My undergraduate research in social psychology focused on stereotype threat, diversity messaging, and the development of [psychologically wise interventions](https://www.wiseinterventions.org/what-are-wise-interventions) to improve educational outcomes. During that time, I also conducted research in sports analytics and worked as a data scientist with the Pittsburgh Pirates (think [*Moneyball*](https://en.wikipedia.org/wiki/Moneyball_(film))) — where I developed statistical modeling and decision-support tools for player evaluation and development.
 

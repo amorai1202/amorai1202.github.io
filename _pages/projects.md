@@ -4,7 +4,6 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-
 ## Research
 <hr style="height:2px; background-color:lightgrey; border:none;" />
 
