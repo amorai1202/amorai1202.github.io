@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Research
+## Research
 <hr style="height:2px; background-color:lightgrey; border:none;" />
 
 [**Implicit vs Explicit Stereotype Threat Activation Effect on Performance Mindsets**](/files/senior_thesis.pdf)\
@@ -32,7 +32,7 @@ motivated statements from professors had the highest FSR. These findings suggest
 
 </details>
 <br>
-# Sports
+## Sports
 <hr style="height:2px; background-color:lightgrey; border:none;" />
 
 🏀 **WNBA Snowflake Shot Charts** — *coming soon!*\
