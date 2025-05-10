@@ -1,12 +1,11 @@
 # main links links
 main:
 
-  - title: "PROJECTS"
-    url: /projects/
-
   - title: "ABOUT"
     url: /aboutme/
 
+  - title: "PROJECTS"
+    url: /projects/
 
 #  - title: "Resources"
 #     url: /resources/
