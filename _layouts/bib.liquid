@@ -193,7 +193,7 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
@@ -203,6 +203,9 @@
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      {% endif %}
+      {% if entry.presentation %}
+        <a class="presentation btn btn-sm z-depth-0" role="button">Presentations</a>
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
@@ -359,6 +362,13 @@
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
         {% endhighlight %}
+      </div>
+    {% endif %}
+
+    {% if entry.presentation %}
+      <!-- Hidden presentation block -->
+      <div class="presentation hidden">
+        <p>{{ entry.presentation | markdownify }}</p>
       </div>
     {% endif %}
 

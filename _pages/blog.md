@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true
@@ -14,20 +14,22 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
+hide_blog_header: false   
 ---
 
 <div class="post">
 
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
+{% unless page.hide_blog_header %}
+  {% assign blog_name_size = site.blog_name | size %}
+  {% assign blog_description_size = site.blog_description | size %}
 
-{% if blog_name_size > 0 or blog_description_size > 0 %}
-
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
+  {% if blog_name_size > 0 or blog_description_size > 0 %}
+    <div class="header-bar">
+      <h1>{{ site.blog_name }}</h1>
+      <h2>{{ site.blog_description }}</h2>
+    </div>
   {% endif %}
+{% endunless %}
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 

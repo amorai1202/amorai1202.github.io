@@ -208,21 +208,33 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+    margin: 0 auto;
+    text-align: center; 
+
+    img {
+      padding: 0.5rem;
+      margin: 1rem auto;
+      margin-top: 0rem;
+      display: block;
+      border-radius: 8px;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
 
     .address {
-      p {
-        display: block;
-      }
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      text-align: center;
     }
   }
 }
