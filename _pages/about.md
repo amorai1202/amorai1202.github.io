@@ -6,7 +6,7 @@ subtitle: <a href='https://iriss.stanford.edu/about/welcome-stanford-institute-r
 
 profile:
   align: right
-  image: prof_pic.png
+  image: headshot_25.png
   image_circular: true # crops the image to make it circular
   more_info: >
 
