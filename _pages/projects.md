@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: side quests sparked by curiosity and a love for sports
+description: sports data playground
 nav: true
 nav_order: 4
 display_categories: [basketball, other]

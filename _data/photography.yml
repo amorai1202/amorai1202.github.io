@@ -1,0 +1,94 @@
+# Add new photos by placing images in assets/img/photo_album/ and appending entries here.
+# Width and height must match the actual image dimensions so PhotoSwipe opens photos without distortion.
+# Add `description: "A short note"` under any photo to show text when the photo opens.
+# Optional: add `tile: hero-landscape` or `tile: portrait-wide` for layout-specific crops.
+
+- src: assets/img/photo_album/lakeserene.jpg
+  width: 4030
+  height: 2686
+  description: "Lake Serene, WA"
+- src: assets/img/photo_album/pncpark.jpg
+  width: 4030
+  height: 2686
+  description: "Pittsburgh, PA"
+- src: assets/img/photo_album/flatirons.jpg
+  width: 2686
+  height: 4030
+  description: "Boulder, CO"
+- src: assets/img/photo_album/missionpeak.jpg
+  width: 2445
+  height: 3669
+  description: "Mission Peak, CA"
+- src: assets/img/photo_album/valleyoffire.jpg
+  width: 2686
+  height: 4030
+  description: "Valley of Fire State Park, NV"
+- src: assets/img/photo_album/nice.jpg
+  width: 4030
+  height: 2686
+  description: "Promenade des Anglais, Nice"
+- src: assets/img/photo_album/pointisabel.jpg
+  width: 4030
+  height: 2686
+  description: "Point Isabel Dog Park, CA"
+- src: assets/img/photo_album/brighton.jpg
+  width: 2686
+  height: 4030
+  description: "Brighton, UK"
+- src: assets/img/photo_album/sevensisters.jpg
+  width: 2686
+  height: 4030
+  description: "Seven Sisters, UK"
+- src: assets/img/photo_album/southdowns.jpg
+  width: 2686
+  height: 4030
+  description: "South Downs National Park, UK"
+- src: assets/img/photo_album/maringgb.jpg
+  width: 4030
+  height: 2686
+  description: "Marin Headlands, CA"
+- src: assets/img/photo_album/zion1.jpg
+  width: 4030
+  height: 2686
+  description: "Zion National Park, UT"
+- src: assets/img/photo_album/amsterdam.jpg
+  width: 2686
+  height: 4030
+  description: "Amsterdam, Netherlands"
+- src: assets/img/photo_album/eiffeltower.jpg
+  width: 2686
+  height: 4030
+  description: "Paris, France"
+- src: assets/img/photo_album/shakespeare.jpg
+  width: 2686
+  height: 4030
+  description: "Shakespeare's Globe, London"
+- src: assets/img/photo_album/dish.jpg
+  width: 2686
+  height: 4030
+  description: "Stanford Dish, CA"
+- src: assets/img/photo_album/redrocks.jpg
+  width: 2686
+  height: 4030
+  description: "Red Rocks Amphitheatre, CO"
+- src: assets/img/photo_album/mttam.jpg
+  width: 2686
+  height: 4030
+  description: "Mount Tamalpais, CA"
+- src: assets/img/photo_album/parkguell.jpg
+  width: 4030
+  height: 2686
+  description: "Park Güell, Barcelona"
+  tile: hero-landscape
+- src: assets/img/photo_album/robiepoint.jpg
+  width: 2686
+  height: 4030
+  description: "Auburn, CA"
+- src: assets/img/photo_album/pghbridge.jpg
+  width: 2262
+  height: 3394
+  description: "Pittsburgh, PA"
+- src: assets/img/photo_album/zion2.jpg
+  width: 2686
+  height: 4030
+  description: "Zion National Park, UT"

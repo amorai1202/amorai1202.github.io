@@ -10,7 +10,7 @@ related_publications: false
 
 ### Work in Progress
 
-- Drawing inspiration from [Owen Phillips](https://thef5.substack.com/p/hex-snowflake-charts), currently developing a version tailored for the 2025 WNBA season
+- Drawing inspiration from [Owen Phillips](https://thef5.substack.com/p/hex-snowflake-charts), currently developing a version tailored for the 2026 WNBA season
 
 {% comment %}
 <div class="row">

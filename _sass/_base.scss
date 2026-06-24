@@ -231,6 +231,19 @@ ul.task-list input[type="checkbox"] {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     }
 
+    img.profile-image-circular {
+      aspect-ratio: 1 / 1;
+      width: min(24vw, 260px) !important;
+      height: min(24vw, 260px) !important;
+      box-sizing: border-box;
+      border: 0.5rem solid #fff;
+      padding: 0;
+      background: #fff;
+      object-fit: cover;
+      object-position: center;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.18);
+    }
+
     .address {
       margin-top: 2rem;
       margin-bottom: 2rem;
