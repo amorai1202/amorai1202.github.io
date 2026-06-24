@@ -25,12 +25,40 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "side quests sparked by curiosity and a love for sports",
+          description: "sports data playground",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "books-the-godfather",
+        },{id: "nav-resources",
+          title: "resources",
+          description: "useful links &amp; notes",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
+          },
+        },{id: "dropdown-photography",
+              title: "photography",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/photography/";
+              },
+            },{id: "dropdown-writing",
+              title: "writing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://substack.com/@amorai/notes";
+              },
+            },{id: "dropdown-type-2-fun",
+              title: "type 2 fun",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://strava.app.link/Y2FltUz2Y3b";
+              },
+            },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -51,11 +79,6 @@ ninja.data = [{
           description: "with Minnie Ren &amp; Yifan Sun",
           section: "Projects",handler: () => {
               window.location.href = "/projects/late_game_foul/";
-            },},{id: "projects-analyzing-nba-tracking-data",
-          title: 'Analyzing NBA Tracking Data',
-          description: "coming soon!",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/nba_tracking/";
             },},{id: "projects-analyzing-mlb-2-pitch-sequences",
           title: 'Analyzing MLB 2-Pitch Sequences',
           description: "Does Swinging on the First Pitch Lead to Better Decisions?",
