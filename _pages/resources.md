@@ -57,7 +57,12 @@ nav_order: 5
       <li><a href="https://www.reddit.com/r/gradadmissions/comments/a4vpc4/master_list_of_interview_questions/">Master list of interview questions</a></li>
       <li><a href="https://www.eugenevinitsky.com/posts/coldemails/">A guide to cold emailing</a></li>
       <li><a href="https://www.queerinai.com/grad-app-aid">Grad app aid</a></li>
-      <li>The best interview advice from my undergrad advisor <a href="https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/manke-miller-kody.html">Kody Manke-Miller</a>: <strong>show that you’re a curious &amp; interesting person</strong></li>
+      <li>
+        The best interview advice from my undergrad advisor Kody Manke-Miller:
+        <ul>
+          <li>show that you’re a curious &amp; interesting person!</li>
+        </ul>
+      </li>
     </ul>
 
     <h3>Other</h3>
@@ -78,21 +83,24 @@ nav_order: 5
     <p>A few statistics resources I've bookmarked over the years.</p>
     <ul>
       <li>
-        <a href="https://www.statisticsdonewrong.com/">Statistics Done Wrong by Alex Reinhart</a>
+        <a href="https://www.statisticsdonewrong.com/">Statistics Done Wrong</a> by Alex Reinhart
       </li>
       <li>
-        <a href="https://r4ds.hadley.nz/">R for Data Science by Hadley Wickham</a>
+        <a href="https://r4ds.hadley.nz/">R for Data Science</a> by Hadley Wickham
       </li>
       <li>
-        <a href="https://vyasenov.github.io/blog/">Advanced Topics in Statistical Data Science blog by Vasco Yasenov</a>
+        <a href="https://vyasenov.github.io/blog/">Advanced Topics in Statistical Data Science blog</a> by Vasco Yasenov
       </li>
       <li>
-        <a href="https://svenschmit.com/writing">Random Projections blog by Svn Schmit</a>
+        <a href="https://svenschmit.com/writing">Random Projections blog</a> by Svn Schmit
       </li>
       <li>
-        <a href="https://apsta.shinyapps.io/thinkCausal/">thinkCausal</a>
+        <a href="https://apsta.shinyapps.io/thinkCausal/">thinkCausal</a> by New York University PRIISM
       </li>
     </ul>
+    <p>
+      A <a href="{{ '/assets/pdf/building_shiny_apps.pdf' | relative_url }}">resource</a> for anyone interested in building R Shiny apps.
+    </p>
   </div>
 </details>
 

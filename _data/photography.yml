@@ -3,14 +3,14 @@
 # Add `description: "A short note"` under any photo to show text when the photo opens.
 # Optional: add `tile: hero-landscape` or `tile: portrait-wide` for layout-specific crops.
 
-- src: assets/img/photo_album/lakeserene.jpg
+- src: assets/img/photo_album/mtrainier.jpg
   width: 4030
   height: 2686
-  description: "Lake Serene, WA"
-- src: assets/img/photo_album/pncpark.jpg
+  description: "Mount Rainier National Park, WA"
+- src: assets/img/photo_album/teotihuacan.jpg
   width: 4030
   height: 2686
-  description: "Pittsburgh, PA"
+  description: "Teotihuacan, Mexico"
 - src: assets/img/photo_album/flatirons.jpg
   width: 2686
   height: 4030
@@ -92,3 +92,11 @@
   width: 2686
   height: 4030
   description: "Zion National Park, UT"
+- src: assets/img/photo_album/lakeserene.jpg
+  width: 4030
+  height: 2686
+  description: "Lake Serene, WA"
+- src: assets/img/photo_album/pncpark.jpg
+  width: 4030
+  height: 2686
+  description: "Pittsburgh, PA"

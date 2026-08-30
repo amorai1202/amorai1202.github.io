@@ -18,7 +18,6 @@ The lack of nationally televised games and limited marketing budgets to showcase
 ---
 
 👾 [Launch Shiny App →](https://qtwxlt-mykalyster-homberg.shinyapps.io/wnbapp/) <br>
-  <small><em>(updated version coming soon!)</em></small>
 
 🌟 Presented at the [2022 Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2022/)  
   <small><em>October 29, 2022</em></small>

@@ -2,8 +2,7 @@
 layout: about
 title: "<i class='fas fa-home'></i>"
 permalink: /
-subtitle: <a href='https://iriss.stanford.edu/about/welcome-stanford-institute-research-social-sciences'>IRiSS Predoctoral Fellow</a>
-# subtitle: <a href='https://idss.mit.edu/academics/ses/'>Doctoral Student, Social & Engineering Systems and Statistics</a>
+subtitle: <a href='https://idss.mit.edu/academics/ses'>Doctoral Student, Social & Engineering Systems</a>
 
 profile:
   align: right
@@ -26,8 +25,9 @@ latest_posts:
 ---
 <div style="margin-top: 2rem;"></div>
 
-Hello! I'm an incoming PhD student in the [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/) at the Massachusetts Institute of Technology (MIT). Prior to MIT, I was an [IRiSS](https://iriss.stanford.edu/about/welcome-stanford-institute-research-social-sciences) predoctoral researcher with the [Immigration Policy Lab](https://immigrationlab.org/) and Stanford’s Department of Political Science. There, I worked with [Jens Hainmueller](https://j-hai.github.io/) and contributed to the research and end-to-end development of [GeoMatch](https://immigrationlab.org/geomatch/): a machine learning algorithm that matches *people* to *places* where they are most likely to thrive.
+Hello! I'm a PhD student in the [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/) at Massachusetts Institute of Technology and a researcher in the MIT Sports Lab. Prior to MIT, I was an [IRiSS](https://iriss.stanford.edu/about/welcome-stanford-institute-research-social-sciences) predoctoral researcher with the [Immigration Policy Lab](https://immigrationlab.org/) and Stanford’s Department of Political Science. There, I worked with [Jens Hainmueller](https://j-hai.github.io/) and contributed to the research and end-to-end development of [GeoMatch](https://immigrationlab.org/geomatch/): a machine learning algorithm that matches *people* to *places* where they are most likely to thrive.
 
-My research interests lie at the intersection of behavioral science, data science, and decision-making. In my free time, I enjoy tackling data-driven questions and building apps that visualize insights in the sports analytics space. 
+My research interests lie at the intersection of behavioral science, data science, and decision-making. Previously, I was a part of the [Data-Driven-Diversity Lab](https://www.d3lab.org/) and worked as a data scientist for a professional sports team.
 
-Previously, I was a part of the [Data-Driven-Diversity Lab](https://www.d3lab.org/) and worked as a data scientist for a professional sports team.
+
+
